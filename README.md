@@ -17,6 +17,6 @@ Made with 💚 using HTML, CSS, and vanilla JavaScript.
 
 ## Screenshots
 ![Captura de pantalla del contador](https://github.com/pierox-afk/counter-accumulator-prime/blob/295c106fcc9b73479b9089129826b2a58fba5c48/Counter%20screenshots/counter%201.png)
-![First prime](https://github.com/pierox-afk/counter-accumulator-prime/blob/52116a34b45b77da9590750c652948d6a79d5aae/Counter%20screenshots/counter%202.png))
+![First prime](https://github.com/pierox-afk/counter-accumulator-prime/blob/52116a34b45b77da9590750c652948d6a79d5aae/Counter%20screenshots/counter%202.png)
 ![Acumulate numbers+primes](https://github.com/pierox-afk/counter-accumulator-prime/blob/52116a34b45b77da9590750c652948d6a79d5aae/Counter%20screenshots/counter%203.png)
 

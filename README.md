@@ -16,7 +16,7 @@ Clone the repository and open `index.html` in your browser.
 Made with 💚 using HTML, CSS, and vanilla JavaScript.
 
 ## Screenshots
-![Captura de pantalla del contador](./counter-accumulator-prime/Counter%20screenshots/counter%1.png)
+![Captura de pantalla del contador](./counter-accumulator-prime/Counterscreenshots/counter1.png)
 ![First prime](Counter screenshots/counter 2.png)
 ![Acumulate numbers+primes](counter-screenshots/counter-3.png)
 

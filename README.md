@@ -16,7 +16,7 @@ Clone the repository and open `index.html` in your browser.
 Made with 💚 using HTML, CSS, and vanilla JavaScript.
 
 ## Screenshots
-![Captura de pantalla del contador](./counter-accumulator-prime/Counter%20screenshots/counter%201.png)
+![Captura de pantalla del contador](https://github.com/pierox-afk/counter-accumulator-prime/blob/295c106fcc9b73479b9089129826b2a58fba5c48/Counter%20screenshots/counter%201.png)
 ![First prime](Counter screenshots/counter 2.png)
 ![Acumulate numbers+primes](counter-screenshots/counter-3.png)
 
